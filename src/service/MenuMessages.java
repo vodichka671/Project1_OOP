@@ -1,4 +1,4 @@
-package Service;
+package service;
 
 public interface MenuMessages {
     String MAIN_MENU = "Select what do you want to do (depends on number):\n" +

@@ -1,18 +1,18 @@
 package controller;
 
 
-import Service.CoffeeComparator;
-import Service.Constatnts.MainMenu;
-import Service.MenuMessages;
+import service.CoffeeComparator;
+import service.constatnts.MainMenu;
+import service.MenuMessages;
 import model.Van;
 
 import java.util.Collections;
 import java.util.Scanner;
 
-import static Service.Find.find;
+import static service.Find.find;
 import static controller.Controller.generateUnit;
-import static Service.Validation.inputDoubleValue;
-import static Service.Validation.inputForMainMenu;
+import static service.Validation.inputDoubleValue;
+import static service.Validation.inputForMainMenu;
 import static view.Show.show;
 import static view.Show.showCoffee;
 

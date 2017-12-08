@@ -1,8 +1,8 @@
 package model;
 import java.util.ArrayList;
 
-import static Service.MenuMessages.MONEY_IS_OVER;
-import static Service.MenuMessages.VAN_IS_FULL;
+import static service.MenuMessages.MONEY_IS_OVER;
+import static service.MenuMessages.VAN_IS_FULL;
 
 
 public class Van {

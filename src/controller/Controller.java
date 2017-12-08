@@ -4,7 +4,7 @@ import model.Coffee;
 
 import java.util.Scanner;
 
-import static Service.Validation.*;
+import static service.Validation.*;
 
 public class Controller {
 

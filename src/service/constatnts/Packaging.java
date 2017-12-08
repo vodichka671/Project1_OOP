@@ -1,4 +1,4 @@
-package Service.Constatnts;
+package service.constatnts;
 
 public interface Packaging {
    String JAR = "Jar";

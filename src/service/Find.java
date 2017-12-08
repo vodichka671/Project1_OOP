@@ -1,11 +1,11 @@
-package Service;
+package service;
 
 import model.Coffee;
 import model.Van;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import static Service.Validation.*;
+import static service.Validation.*;
 
 public class Find implements MenuMessages {
     public static ArrayList<Coffee> find(Scanner sc, Van van){

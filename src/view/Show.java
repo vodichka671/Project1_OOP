@@ -1,6 +1,6 @@
 package view;
 
-import Service.MenuMessages;
+import service.MenuMessages;
 import model.Coffee;
 
 import java.util.ArrayList;

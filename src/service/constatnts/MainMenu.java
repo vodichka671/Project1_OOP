@@ -1,4 +1,4 @@
-package Service.Constatnts;
+package service.constatnts;
 
 public interface MainMenu {
     int ADD_COFFEE = 1;

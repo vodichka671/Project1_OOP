@@ -1,9 +1,8 @@
-package Service;
-import Service.Constatnts.MainMenu;
-import Service.Constatnts.Packaging;
-import Service.Constatnts.Shapes;
-import Service.Constatnts.Sorts;
-import Service.MenuMessages;
+package service;
+import service.constatnts.MainMenu;
+import service.constatnts.Packaging;
+import service.constatnts.Shapes;
+import service.constatnts.Sorts;
 
 import java.io.IOException;
 

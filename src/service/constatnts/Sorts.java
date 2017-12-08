@@ -1,4 +1,4 @@
-package Service.Constatnts;
+package service.constatnts;
 
 public interface Sorts {
     String ARABICA = "Arabica";
